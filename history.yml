@@ -1,0 +1,229 @@
+---
+mychart: |+
+  data: {"slices":[["Type","value"],["CRITICAL",15],["OK",112],["UNKNOWN",0],["WARNING",0]],"id":"mychart","updatedAt":1415318260}
+
+ranks: |+
+  data: {"items":[{"label":"First","value":1},{"label":"Second","value":2},{"label":"Third","value":3},{"label":"Fourth","value":4},{"label":"Fifth","value":5},{"label":"Sixth","value":6},{"label":"Seventh","value":7},{"label":"Eighth","value":8},{"label":"Ninth","value":9},{"label":"Tenth","value":10}],"id":"ranks","updatedAt":1415318251}
+
+threads-count: |+
+  data: {"points":[{"x":1414102020,"y":1265969753},{"x":1414102080,"y":1109081392},{"x":1414102140,"y":967453092},{"x":1414102200,"y":1394031996},{"x":1414102260,"y":1612024187},{"x":1414102320,"y":1203775198},{"x":1414102380,"y":1355674996},{"x":1414102440,"y":1390769952},{"x":1414102500,"y":1426299185},{"x":1414102560,"y":1650072758},{"x":1414102620,"y":1267394775},{"x":1414102680,"y":986658557},{"x":1414102740,"y":1085200909},{"x":1414102800,"y":1373128672},{"x":1414102860,"y":1310405241},{"x":1414102920,"y":1398190694},{"x":1414102980,"y":1497516023},{"x":1414103040,"y":995687433},{"x":1414103100,"y":850024678},{"x":1414103160,"y":987782329},{"x":1414103220,"y":736521497},{"x":1414103280,"y":994370128},{"x":1414103340,"y":1140525008},{"x":1414103400,"y":1077987507},{"x":1414103460,"y":992689056},{"x":1414103520,"y":1147984478},{"x":1414103580,"y":960910295},{"x":1414103640,"y":1320289590},{"x":1414103700,"y":1234480043},{"x":1414103760,"y":1240615459},{"x":1414103820,"y":1079510275},{"x":1414103880,"y":1259148371},{"x":1414103940,"y":1103341649},{"x":1414104000,"y":1282958540},{"x":1414104060,"y":1297890814},{"x":1414104120,"y":1090287385},{"x":1414104180,"y":1170331973},{"x":1414104240,"y":1290139952},{"x":1414104300,"y":1207931739},{"x":1414104360,"y":1290265115},{"x":1414104420,"y":1005590652},{"x":1414104480,"y":895938669},{"x":1414104540,"y":1201569528},{"x":1414104600,"y":1241786813},{"x":1414104660,"y":1166836887},{"x":1414104720,"y":1166517600},{"x":1414104780,"y":940046990},{"x":1414104840,"y":772014306},{"x":1414104900,"y":977075338},{"x":1414104960,"y":867659859},{"x":1414105020,"y":564708803},{"x":1414105080,"y":708559002},{"x":1414105140,"y":807363420},{"x":1414105200,"y":507286914},{"x":1414105260,"y":898794277},{"x":1414105320,"y":1037871006},{"x":1414105380,"y":919685519},{"x":1414105440,"y":952243718},{"x":1414105500,"y":652679842},{"x":1414105560,"y":881147741}],"id":"threads-count","updatedAt":1414105647}
+
+memory-usage: |+
+  data: {"value":4,"status":"ok","id":"memory-usage","updatedAt":1415318236}
+
+ethernet-in-out: |+
+  data: {"series":[{"name":"Ethernet 1/1 Bits out","data":[{"x":1415314560,"y":824721638},{"x":1415314620,"y":788773517},{"x":1415314680,"y":599662090},{"x":1415314740,"y":776881021},{"x":1415314800,"y":869752717},{"x":1415314860,"y":663803275},{"x":1415314920,"y":807103853},{"x":1415314980,"y":861499896},{"x":1415315040,"y":688060915},{"x":1415315100,"y":740107245},{"x":1415315160,"y":870226843},{"x":1415315220,"y":680240551},{"x":1415315280,"y":704621515},{"x":1415315340,"y":789549379},{"x":1415315400,"y":672497374},{"x":1415315460,"y":764875890},{"x":1415315520,"y":828576532},{"x":1415315580,"y":755236471},{"x":1415315640,"y":840994058},{"x":1415315700,"y":832916793},{"x":1415315760,"y":730292117},{"x":1415315820,"y":763637406},{"x":1415315880,"y":765318565},{"x":1415315940,"y":609726981},{"x":1415316000,"y":849908820},{"x":1415316060,"y":767302990},{"x":1415316120,"y":715346361},{"x":1415316180,"y":762271416},{"x":1415316240,"y":779674877},{"x":1415316300,"y":721823343},{"x":1415316360,"y":776500093},{"x":1415316420,"y":849666146},{"x":1415316480,"y":753518796},{"x":1415316540,"y":814237222},{"x":1415316600,"y":804266514},{"x":1415316660,"y":655799359},{"x":1415316720,"y":909530682},{"x":1415316780,"y":912213513},{"x":1415316840,"y":793441972},{"x":1415316900,"y":790304468},{"x":1415316960,"y":814558897},{"x":1415317020,"y":634243704},{"x":1415317080,"y":817778493},{"x":1415317140,"y":696830996},{"x":1415317200,"y":685948145},{"x":1415317260,"y":764954245},{"x":1415317320,"y":746263771},{"x":1415317380,"y":673789738},{"x":1415317440,"y":811140304},{"x":1415317500,"y":792993346},{"x":1415317560,"y":652457349},{"x":1415317620,"y":827036763},{"x":1415317680,"y":867783947},{"x":1415317740,"y":700657806},{"x":1415317800,"y":982091719},{"x":1415317860,"y":830192646},{"x":1415317920,"y":737919593},{"x":1415317980,"y":794667008},{"x":1415318040,"y":945985258},{"x":1415318100,"y":764381573}]},{"name":"Ethernet 1/1 Bits in","data":[{"x":1415314560,"y":1733942002},{"x":1415314620,"y":1575597116},{"x":1415314680,"y":1367609742},{"x":1415314740,"y":1626936886},{"x":1415314800,"y":1462114510},{"x":1415314860,"y":1426851084},{"x":1415314920,"y":1552200440},{"x":1415314980,"y":1571440048},{"x":1415315040,"y":1440319938},{"x":1415315100,"y":1625176310},{"x":1415315160,"y":1616110497},{"x":1415315220,"y":1285462126},{"x":1415315280,"y":1503460446},{"x":1415315340,"y":1525329414},{"x":1415315400,"y":1408928082},{"x":1415315460,"y":1596028099},{"x":1415315520,"y":1441277949},{"x":1415315580,"y":1303586734},{"x":1415315640,"y":1384513316},{"x":1415315700,"y":1471751746},{"x":1415315760,"y":1271513848},{"x":1415315820,"y":1402306022},{"x":1415315880,"y":1335534336},{"x":1415315940,"y":1149181799},{"x":1415316000,"y":1414635847},{"x":1415316060,"y":1481067071},{"x":1415316120,"y":1107101917},{"x":1415316180,"y":1269359059},{"x":1415316240,"y":1323117067},{"x":1415316300,"y":1169713514},{"x":1415316360,"y":1546368387},{"x":1415316420,"y":1508210252},{"x":1415316480,"y":1409861951},{"x":1415316540,"y":1569115959},{"x":1415316600,"y":1800384602},{"x":1415316660,"y":1433437475},{"x":1415316720,"y":1466941553},{"x":1415316780,"y":1436704511},{"x":1415316840,"y":1299789331},{"x":1415316900,"y":1506405340},{"x":1415316960,"y":1662050564},{"x":1415317020,"y":1260052184},{"x":1415317080,"y":1445258946},{"x":1415317140,"y":1713528082},{"x":1415317200,"y":1381068875},{"x":1415317260,"y":1651949254},{"x":1415317320,"y":1626431158},{"x":1415317380,"y":1300283602},{"x":1415317440,"y":1459951709},{"x":1415317500,"y":1501196141},{"x":1415317560,"y":1470706743},{"x":1415317620,"y":1570075444},{"x":1415317680,"y":1503923740},{"x":1415317740,"y":1394733973},{"x":1415317800,"y":1568931604},{"x":1415317860,"y":1388989036},{"x":1415317920,"y":1304966652},{"x":1415317980,"y":1692818401},{"x":1415318040,"y":1700617608},{"x":1415318100,"y":1158211365}]}],"id":"ethernet-in-out","updatedAt":1415318236}
+
+cpuload: |+
+  data: {"value":3.0,"status":"ok","id":"cpuload","updatedAt":1416588021}
+
+value: |+
+  data: {"value":0.0,"status":"ok","id":"value","updatedAt":1416256781}
+
+usedmem: |+
+  data: {"value":0.0,"status":"ok","id":"usedmem","updatedAt":1416588021}
+
+usedpermgen: |+
+  data: {"value":63.0,"status":"warning","id":"usedpermgen","updatedAt":1416588021}
+
+usedphymem: |+
+  data: {"value":27.0,"status":"ok","id":"usedphymem","updatedAt":1416588021}
+
+usedswapspace: |+
+  data: {"value":0.0,"status":"ok","id":"usedswapspace","updatedAt":1416588022}
+
+1: |+
+  data: {"text":"1/1","id":1,"updatedAt":1416264706}
+
+healthy: |+
+  data: {"items":[{"label":"Total","value":1},{"label":"Online","value":1},{"label":"Healthy and Online","value":1}],"id":"healthy","updatedAt":1416266550}
+
+slaves: |+
+  data: {"items":[{"label":"Total","value":1},{"label":"Online","value":1},{"label":"Healthy and Online","value":1}],"id":"slaves","updatedAt":1416588021}
+
+jobs: |+
+  data: {"items":[{"label":"Active","value":1},{"label":"Failed","value":0}],"id":"jobs","updatedAt":1416588021}
+
+health: |+
+  data: {"status":"ok","id":"health","updatedAt":1416588022}
+
+githubcpu: |+
+  data: {"value":0.0,"status":"ok","id":"githubcpu","updatedAt":1416588021}
+
+githubmem: |+
+  data: {"value":0.0,"status":"ok","id":"githubmem","updatedAt":1416588021}
+
+githubhealth: |+
+  data: {"value":0.0,"status":"ok","id":"githubhealth","updatedAt":1416588021}
+
+githubrepos: |+
+  data: {"items":[{"label":"Total","value":1436},{"label":"Created Today","value":6},{"label":"Deleted Today","value":0}],"id":"githubrepos","updatedAt":1416588021}
+
+githubusers: |+
+  data: {"items":[{"label":"Registered Users","value":691}],"id":"githubusers","updatedAt":1416588021}
+
+githubrepoevents: |+
+  data: {"items":[{"label":"Forks","value":2},{"label":"Pull Requests","value":7},{"label":"Pushes","value":25}],"id":"githubrepoevents","updatedAt":1416588021}
+
+Core_puppet_tag_and_release: |+
+  data: {"title":"Core_puppet_tag_and_release #18","status":"ok","id":"Core_puppet_tag_and_release","updatedAt":1426617476}
+
+coreos-builder: |+
+  data: {"title":"coreos-builder #37","status":"ok","id":"coreos-builder","updatedAt":1426617477}
+
+coreos-validator: |+
+  data: {"title":"coreos-validator #22","status":"ok","id":"coreos-validator","updatedAt":1426617476}
+
+cpdeploy-docker-from-scratch-oel6-builder: |+
+  data: {"title":"cpdeploy-docker-from-scratch-oel6-builder #7","status":"ok","id":"cpdeploy-docker-from-scratch-oel6-builder","updatedAt":1426617476}
+
+cpdeploy-docker-images: |+
+  data: {"title":"cpdeploy-docker-images #2","status":"ok","id":"cpdeploy-docker-images","updatedAt":1426617476}
+
+docker-cp-base-builder: |+
+  data: {"title":"docker-cp-base-builder #25","status":"ok","id":"docker-cp-base-builder","updatedAt":1426617477}
+
+docker-epic-client-builder: |+
+  data: {"title":"docker-epic-client-builder #23","status":"ok","id":"docker-epic-client-builder","updatedAt":1426617475}
+
+docker-isg-toolbox-builder: |+
+  data: {"title":"docker-isg-toolbox-builder #9","status":"danger","id":"docker-isg-toolbox-builder","updatedAt":1426617476}
+
+docker-jenkins-base-slave: |+
+  data: {"title":"docker-jenkins-base-slave #3","status":"ok","id":"docker-jenkins-base-slave","updatedAt":1426617477}
+
+docker-jenkins-rio-slave: |+
+  data: {"title":"docker-jenkins-rio-slave #8","status":"ok","id":"docker-jenkins-rio-slave","updatedAt":1426617477}
+
+docker-node0.10: |+
+  data: {"title":"docker-node0.10 #3","status":"ok","id":"docker-node0.10","updatedAt":1426617476}
+
+docker-node0.10-build: |+
+  data: {"title":"docker-node0.10-build #6","status":"ok","id":"docker-node0.10-build","updatedAt":1426617477}
+
+docker-oel-base-builder: |+
+  data: {"title":"docker-oel-base-builder #59","status":"ok","id":"docker-oel-base-builder","updatedAt":1426617477}
+
+docker-oel-geo-builder: |+
+  data: {"title":"docker-oel-geo-builder #15","status":"ok","id":"docker-oel-geo-builder","updatedAt":1426617476}
+
+docker-rio-nimbus-base-image: |+
+  data: {"title":"docker-rio-nimbus-base-image #2","status":"ok","id":"docker-rio-nimbus-base-image","updatedAt":1426617476}
+
+docker-sretools-toolbox-build: |+
+  data: {"title":"docker-sretools-toolbox-build #1","status":"ok","id":"docker-sretools-toolbox-build","updatedAt":1426617477}
+
+epic-ci-cluster-db: |+
+  data: {"title":"epic-ci-cluster-db #9","status":"ok","id":"epic-ci-cluster-db","updatedAt":1426617476}
+
+epic-ci-concurrenttest-1: |+
+  data: {"title":"epic-ci-concurrenttest-1 #42","status":"ok","id":"epic-ci-concurrenttest-1","updatedAt":1426617477}
+
+epic-ci-concurrenttest-2: |+
+  data: {"title":"epic-ci-concurrenttest-2 #41","status":"ok","id":"epic-ci-concurrenttest-2","updatedAt":1426617475}
+
+epic-ci-concurrenttest-3: |+
+  data: {"title":"epic-ci-concurrenttest-3 #42","status":"ok","id":"epic-ci-concurrenttest-3","updatedAt":1426617476}
+
+epic-ci-controlSE: |+
+  data: {"title":"epic-ci-controlSE #8","status":"ok","id":"epic-ci-controlSE","updatedAt":1426617477}
+
+epic-ci-host-update: |+
+  data: {"title":"epic-ci-host-update #3","status":"danger","id":"epic-ci-host-update","updatedAt":1426617476}
+
+epic-ci-standalone: |+
+  data: {"title":"epic-ci-standalone #11","status":"ok","id":"epic-ci-standalone","updatedAt":1426617476}
+
+epic-ci-test: |+
+  data: {"title":"epic-ci-test #33","status":"ok","id":"epic-ci-test","updatedAt":1426617477}
+
+gravity-api-server-kenpo: |+
+  data: {"title":"gravity-api-server-kenpo #29345","status":"danger","id":"gravity-api-server-kenpo","updatedAt":1426617476}
+
+gravity-docker-registry-build: |+
+  data: {"title":"gravity-docker-registry-build #6","status":"ok","id":"gravity-docker-registry-build","updatedAt":1426617476}
+
+gravity-e2e-pipeline: |+
+  data: {"title":"gravity-e2e-pipeline #25938","status":"danger","id":"gravity-e2e-pipeline","updatedAt":1426617477}
+
+gravity-jenkins-slave-build: |+
+  data: {"title":"gravity-jenkins-slave-build #4","status":"ok","id":"gravity-jenkins-slave-build","updatedAt":1426617476}
+
+gravity-ui: |+
+  data: {"title":"gravity-ui #103","status":"danger","id":"gravity-ui","updatedAt":1426617477}
+
+gravity-ui-deploy: |+
+  data: {"title":"gravity-ui-deploy #80","status":"danger","id":"gravity-ui-deploy","updatedAt":1426617477}
+
+gravity-ui-deploy-bhuvan-test: |+
+  data: {"title":"gravity-ui-deploy-bhuvan-test #6","status":"ok","id":"gravity-ui-deploy-bhuvan-test","updatedAt":1426617476}
+
+isg-distutils-package-build: |+
+  data: {"title":"isg-distutils-package-build #8","status":"ok","id":"isg-distutils-package-build","updatedAt":1426617477}
+
+isg-distutils-unittest: |+
+  data: {"title":"isg-distutils-unittest #6","status":"ok","id":"isg-distutils-unittest","updatedAt":1426617476}
+
+ISG_puppet_tag_and_release: |+
+  data: {"title":"ISG_puppet_tag_and_release #4","status":"ok","id":"ISG_puppet_tag_and_release","updatedAt":1426617476}
+
+isvcs-rabbitmq-docker-build: |+
+  data: {"title":"isvcs-rabbitmq-docker-build #50","status":"ok","id":"isvcs-rabbitmq-docker-build","updatedAt":1426617477}
+
+jenkins-rpm-builder: |+
+  data: {"title":"jenkins-rpm-builder #10","status":"ok","id":"jenkins-rpm-builder","updatedAt":1426617476}
+
+jenkins-rpm-promoter: |+
+  data: {"title":"jenkins-rpm-promoter #14","status":"ok","id":"jenkins-rpm-promoter","updatedAt":1426617477}
+
+launchmeister: |+
+  data: {"title":"launchmeister #119","status":"ok","id":"launchmeister","updatedAt":1426617475}
+
+launchmeister-ui: |+
+  data: {"title":"launchmeister-ui #93","status":"danger","id":"launchmeister-ui","updatedAt":1426617475}
+
+launchmeister_core: |+
+  data: {"title":"launchmeister_core #66","status":"danger","id":"launchmeister_core","updatedAt":1426617476}
+
+lbaas-docker-build: |+
+  data: {"title":"lbaas-docker-build #319","status":"ok","id":"lbaas-docker-build","updatedAt":1426617477}
+
+NOTAG-ISG-puppet-merge: |+
+  data: {"title":"NOTAG-ISG-puppet-merge #1","status":"ok","id":"NOTAG-ISG-puppet-merge","updatedAt":1426617476}
+
+Puppet-syntax: |+
+  data: {"title":"Puppet-syntax #316","status":"ok","id":"Puppet-syntax","updatedAt":1426617477}
+
+Puppet-unittest: |+
+  data: {"title":"Puppet-unittest #327","status":"ok","id":"Puppet-unittest","updatedAt":1426617477}
+
+python-gnupg: |+
+  data: {"title":"python-gnupg #4","status":"ok","id":"python-gnupg","updatedAt":1426617476}
+
+quark-mesos-on-docker: |+
+  data: {"title":"quark-mesos-on-docker #1368","status":"danger","id":"quark-mesos-on-docker","updatedAt":1426617477}
+
+saga-client-go-builder-stable: |+
+  data: {"title":"saga-client-go-builder-stable #34","status":"ok","id":"saga-client-go-builder-stable","updatedAt":1426617477}
+
+saga-client-go-builder-unstable: |+
+  data: {"title":"saga-client-go-builder-unstable #31","status":"ok","id":"saga-client-go-builder-unstable","updatedAt":1426617477}
+
+Saga-Docs: |+
+  data: {"title":"Saga-Docs #70","status":"danger","id":"Saga-Docs","updatedAt":1426617475}
+
+Saga-image-builder: |+
+  data: {"title":"Saga-image-builder #141","status":"warning","id":"Saga-image-builder","updatedAt":1426617476}
+
+saga-provisioner-packager-stable: |+
+  data: {"title":"saga-provisioner-packager-stable #9","status":"ok","id":"saga-provisioner-packager-stable","updatedAt":1426617477}
+
+saga-provisioner-packager-unstable: |+
+  data: {"title":"saga-provisioner-packager-unstable #25","status":"ok","id":"saga-provisioner-packager-unstable","updatedAt":1426617478}
+
+TbdRuby%20-%20Tests%20and%20Rdoc: |+
+  data: {"title":"TbdRuby - Tests and Rdoc #85","status":"danger","id":"TbdRuby%20-%20Tests%20and%20Rdoc","updatedAt":1426617477}
+
+verdad-edit: |+
+  data: {"title":"verdad-edit #6","status":"danger","id":"verdad-edit","updatedAt":1426617477}
+

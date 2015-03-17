@@ -1,0 +1,34 @@
+<style>
+body {
+    margin:-5px 0px 0 -5px;
+}
+
+</style>
+
+<script type='text/javascript'>
+$(function() {
+  //Dashing.widget_base_dimensions = [370, 340]
+  Dashing.numColumns = 6
+  Dashing.cycleDashboards({timeInSeconds: 10, stagger: true});
+});
+</script>
+
+<% content_for :title do %>Service status dashboard<% end %>
+
+<div class="gridster">
+  <ul>
+    <li data-row="1" data-col="1" data-sizex="2" data-sizey="1">
+      <div data-id="" data-view="Text" data-title="Stage Status"></div>
+    </li>
+  </ul>
+</div>
+
+<div class="gridster">
+  <ul>
+    <li data-row="1" data-col="1" data-sizex="2" data-sizey="1" >
+      <div data-id="" data-view="Text" data-title="Stage Status"></div>
+    </li>
+
+  </ul>
+</div>
+

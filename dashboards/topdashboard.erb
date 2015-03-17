@@ -1,0 +1,44 @@
+<script type='text/javascript'>
+$(function() {
+  //Dashing.widget_base_dimensions = [370, 340]
+  Dashing.numColumns = 8
+});
+</script>
+
+<style type="text/css">
+
+iframe{
+    width: 1860px;
+    height: 740px;
+    overflow: hidden;
+    border: none;
+}
+
+</style>
+
+
+<% content_for :title do %>Jenkins dashboard<% end %>
+<div class="gridster">
+  <ul>
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="" data-view="Clock"> </div>
+    </li>
+
+    <!-- <li data-row="1" data-col="2" data-sizex="1" data-sizey="1"> -->
+    <!--    <div data-id="" data-view="Text" data-title="Click on individual widgets for more info" style="background-color:#12b0c5"></div> -->
+    <!-- </li> -->
+
+    <li data-row="1" data-col="3" data-sizex="1" data-sizey="1"  onclick="location.href='buildisg-jenkins';">
+      <div data-id="docker-oel-geo-builder" data-view="Text"></div>
+    </li>
+
+    <li data-row="1" data-col="3" data-sizex="1" data-sizey="1"  onclick="location.href='buildisg-jenkins';">
+      <div data-id="gravity-api-server-kenpo" data-view="Text"></div>
+    </li>
+
+    <li data-row="2" data-col="1" data-sizex="6" data-sizey="2">
+      <iframe src="loopservices"></iframe>
+    </li>
+
+  </ul>
+</div>
